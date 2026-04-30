@@ -1,6 +1,6 @@
-# Muhammad Tahir | Full-Stack & Backend Engineer 👨‍💻
+# M Tahir | Full-Stack & Backend Engineer 👨‍💻
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=header&text=Building%20the%20Scalable%20Future&fontSize=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Building%20the%20Scalable%20Future&fontSize=45&animation=typing" width="100%" />
 </div>
 
 ### 🚀 About Me
