@@ -1,11 +1,10 @@
 # Muhammad Tahir | Full-Stack & Backend Engineer 👨‍💻
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=220&section=header&text=Building%20the%20Scalable%20Future&fontSize=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=header&text=Building%20the%20Scalable%20Future&fontSize=45&animation=fadeIn" width="100%" />
 </div>
 
 ### 🚀 About Me
-- 🎓 **Computer Science Student** at University of Engineering and Technology (UET), Lahore (Class of 2028).
+- 🎓 **Computer Science Student** at University of Engineering and Technology (UET), Lahore .
 - 🛠️ **Backend Specialist** focused on building high-performance APIs and event-driven architectures.
 - ☕ **Currently Mastering:** Java & Spring Boot for enterprise-grade microservices.
 - 🐳 **DevOps Focused:** Enthusiastic about containerization (Docker) and cloud deployments (AWS EC2)[cite: 1].
@@ -44,7 +43,7 @@
 
 ### 📫 Connect with Me
 <div align="left">
-  <a href="http://www.linkedin.com/in/tahir-butt-8345a5329" target="_blank">
+  <a href="http://www.linkedin.com/in/tahir-butt-cs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mtahirbutt1005@gmail.com">
