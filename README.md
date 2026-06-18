@@ -23,13 +23,11 @@
 ---
 
 ### 🏆 Top Projects
-> **[Auth & API Gateway](https://github.com/Tahir-CS)**
-> *   Built a scalable gateway with Node.js and Docker, handling **200 req/sec**[cite: 1].
-> *   Implemented **JWT rotation** and **Redis caching**, reducing latency by **40%**[cite: 1].
+> **[Yt-Analysis-Engine][(https://github.com/Tahir-CS](https://github.com/Tahir-CS/Yt-Analysis-Engine))**
+> *  Building a real-time YouTube analytics platform built with TypeScript .It applies the Strategy Pattern and a Token-Bucket rate limiter to keep external API requests organized and type-safe. Handles heavy traffic smoothly using BullMQ message queues, Redis Pub/Sub
 
-> **[Event-Driven Order System](https://github.com/Tahir-CS)**
-> *   Architected a Modular Monolith with **async messaging** to decouple services[cite: 1].
-> *   Guaranteed **zero data loss** during payment failures via compensating transactions[cite: 1].
+> **[Career OS]([https://github.com/Tahir-CS](https://github.com/Tahir-CS/CAREER-OS-))**
+> *  An event-driven, AI-powered career intelligence platform implementing async job queues (BullMQ/Redis), WebSockets, S3 object storage, PostgreSQL + pgvector RAG, multi-agent LLM pipelines, Redis caching, rate limiting, idempotency, Docker orchestration, CI/CD, and Sentry observability.
 
 ---
 
@@ -56,6 +54,3 @@
 
 <br />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
