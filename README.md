@@ -23,10 +23,10 @@
 ---
 
 ### 🏆 Top Projects
-> **[Yt-Analysis-Engine][(https://github.com/Tahir-CS](https://github.com/Tahir-CS/Yt-Analysis-Engine))**
+> **[Yt-Analysis-Engine][(https://github.com/Tahir-CS](https://github.com/Tahir-CS/Yt-Analysis-Engine)**
 > *  Building a real-time YouTube analytics platform built with TypeScript .It applies the Strategy Pattern and a Token-Bucket rate limiter to keep external API requests organized and type-safe. Handles heavy traffic smoothly using BullMQ message queues, Redis Pub/Sub
 
-> **[Career OS]([https://github.com/Tahir-CS](https://github.com/Tahir-CS/CAREER-OS-))**
+> **[Career OS][https://github.com/Tahir-CS](https://github.com/Tahir-CS/CAREER-OS-)**
 > *  An event-driven, AI-powered career intelligence platform implementing async job queues (BullMQ/Redis), WebSockets, S3 object storage, PostgreSQL + pgvector RAG, multi-agent LLM pipelines, Redis caching, rate limiting, idempotency, Docker orchestration, CI/CD, and Sentry observability.
 
 ---
